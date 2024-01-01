@@ -4,9 +4,10 @@ title:
 description: Sam Doepker's personal site
 #footer: false
 ---
-<style>
-ul li {margin-left: 40px; list-style-type: square;}
-</style>
+<style> ul li {margin-left: 40px; list-style-type: square;} </style>
+<style> h2 {color: #D6AF6F;} </style>
+<style> strong {color: #f5ebd7;} </style> 
+
 ## Who are you?
 
 I'm Sam Doepker! This page is still a bit of a work in progress, so bear with me while I continue to make some edits.
