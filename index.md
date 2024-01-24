@@ -1,18 +1,28 @@
 ---
 layout: home
-title: 
+title: sjdoepker
 description: Sam Doepker's personal site
+full-width: false
 #footer: false
 ---
 <style> ul li {margin-left: 40px; list-style-type: square;} </style>
-<style> h2 {color: #D6AF6F;} </style>
+<style> h1, 
+h2, 
+h3, 
+h4, 
+h5, 
+h6 {
+    color: #D6AF6F;
+} 
+</style>
 <style> strong {color: #f5ebd7;} </style> 
 
-## Who are you?
+[Work Experience](#work-experience)   \|   [Education](#education)   \|   [Projects and Activities](#projects)    \|   [About Me](#about-me)
 
-I'm Sam Doepker! This page is still a bit of a work in progress, so bear with me while I continue to make some edits.
+## Who am I? 
+I'm Sam Doepker! You can read more about me [down here](#about-me).
 
-<a href="assets\sjdoepker resume.pdf">Resume (PDF)</a>  
+[Resume (PDF)](assets\sjdoepker resume.pdf)  
 LinkedIn: [@sjdoepker](https://www.linkedin.com/in/samantha-doepker/)  
 Github: [@sjdoepker](https://github.com/sjdoepker)  
 Email: [sjdoepker@uchicago.edu](mailto:sjdoepker.uchicago.edu)
@@ -30,7 +40,7 @@ Email: [sjdoepker@uchicago.edu](mailto:sjdoepker.uchicago.edu)
 
 
 ## Education  
-**University of Chicago, BS in Computer Science, GPA 3.9/4.0** (Expected Graduation: May 2026)
+**University of Chicago, BS in Computer Science, GPA 3.91/4.00** (Expected Graduation: May 2026)
 
 Relevant coursework:  
 **Theory of Algorithms, Winter 2024**
@@ -71,12 +81,14 @@ Productions:
 Sound Designer responsibilities: designing audio system flow, managing microphones for 12 performers 
 
 **WildHacks, April 2023**  
-- Created the sticker making web extension, <a href="https://github.com/theswerd/sticky">Sticky</a>, with a team of two others using Facebook's Segment Anything Model (SAM); was personally responsible for front-end and UI design  
+- Created the sticker making web extension, [Sticky](https://github.com/theswerd/sticky), with a team of two others using Facebook's Segment Anything Model (SAM); was personally responsible for front-end and UI design  
 - Tools/Technologies: Tailwind CSS, Svelte  
 
 **Uncommon Hacks, March 2023**  
-- Created <a href="https://github.com/csanvaz/Uncommon_Planner">Uncommon Planner</a>, a daily planning and wellness app based on psychological principles and built with JavaFX
+- Created [Joyful Agenda](https://github.com/csanvaz/Uncommon_Planner), a daily planning and wellness app based on psychological principles and built with JavaFX
 
-### About me
+## About me 
 
-This section is currently under construction!
+Hi! I'm Sam, a second-year computer science student at the University of Chicago. I'm currently interested in learning about backend engineering and human-computer interaction. Outside of my computer science work, I'm a part of my school's theater program as a sound designer (I make sure you can hear all of the performers, music, and sound effects well enough without blowing out your eardrums). I also like to play tabletop RPGs like Dungeons & Dragons with my friends, and spend time exploring Chicago to find my new go-to coffee order.
+
+[Back to top](#top)
