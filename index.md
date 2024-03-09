@@ -89,6 +89,6 @@ Sound Designer responsibilities: designing audio system flow, managing microphon
 
 ## About me 
 
-Hi! I'm Sam, a second-year computer science student at the University of Chicago. I'm currently interested in learning about backend engineering and human-computer interaction. Outside of my computer science work, I'm a part of my school's theater program as a sound designer (I make sure you can hear all of the performers, music, and sound effects well enough without blowing out your eardrums). I also like to play tabletop RPGs like Dungeons & Dragons with my friends, and spend time exploring Chicago to find my new go-to coffee order. You can see some of the things I've tried in the past [here.](\coffee.md)
+Hi! I'm Sam, a second-year computer science student at the University of Chicago. I'm currently interested in learning about backend engineering and human-computer interaction. Outside of my computer science work, I'm a part of my school's theater program as a sound designer (I make sure you can hear all of the performers, music, and sound effects well enough without blowing out your eardrums). I also like to play tabletop RPGs like Dungeons & Dragons with my friends, and spend time exploring Chicago to find my new go-to coffee order. You can see some of the things I've tried in the past [here.](\coffee)
 
 [Back to top](#top)
