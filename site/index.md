@@ -39,8 +39,9 @@ Email: [sjdoepker@uchicago.edu](mailto:sjdoepker.uchicago.edu)
 - Implemented lesson distribution on the Deaf Kids Code website with a form to enable educator access and facilitate client data collection for internal use  
 
 **Computer Science Grader, University of Chicago, 2023 - 2024**  
-- Graded 102 Python student assignments in a code review format under weekly deadlines  
+- Graded homework assignments in a code review format under weekly deadlines
 - Provided constructive feedback on student work focused on efficiency of algorithms, cleanliness of data structures and design, and use of object-oriented programming  
+Courses: Intro to Computer Science I & II
 
 
 ## Education  
