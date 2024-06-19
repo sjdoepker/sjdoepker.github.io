@@ -29,26 +29,35 @@ Email: [sjdoepker@uchicago.edu](mailto:sjdoepker.uchicago.edu)
 
 
 ## Work Experience
+**CTO and co-founder, [InsightEd](insighted.org>), 2024 - Present**
+- Building prototype and MVP for InsightEd's web platform
+- InsightEd is a tool for schools to measure student mental health that then provides evidence-based, population-level solutions to address identified problems
+
 
 **Intern, Deaf Kids Code, 2023**  
 - Compiled online resources into a free beginner coding lesson pack for educators with Deaf and hard of hearing students  
 - Implemented lesson distribution on the Deaf Kids Code website with a form to enable educator access and facilitate client data collection for internal use  
 
-**Computer Science Grader, University of Chicago, 2023**  
+**Computer Science Grader, University of Chicago, 2023 - 2024**  
 - Graded 102 Python student assignments in a code review format under weekly deadlines  
 - Provided constructive feedback on student work focused on efficiency of algorithms, cleanliness of data structures and design, and use of object-oriented programming  
 
 
 ## Education  
-**University of Chicago, BS in Computer Science, GPA 3.91/4.00** (Expected Graduation: May 2026)
+**University of Chicago, BS in Computer Science, GPA 3.86/4.00** (Expected Graduation: May 2026)
 
 Relevant coursework:  
+**Foundations of Computer Networks, Spring 2024**
+- Learned how different internet layers and protocols interact with each other
+- Gained significant experience in pair programming through implementation of the IRC protocol, the TCP protocol, and basic routing protocols with a partner (Code available upon request)
+- Tools/Technologies: C, sockets, threads/parallel programming, pair programming
+
 **Theory of Algorithms, Winter 2024**
 - Learned analysis and design of efficient algorithms using various data structures, including dynamic programming, “divide and conquer”, greedy algorithms, and graph searching  
 
 **Computer Science Intro Sequence, Fall 2022 - Fall 2023**
 - Sequence focused on fundamental computational principles, software development and design, object-oriented programming, and high-level overviews of memory and system management  
-- Technologies/Tools: Python, C, Git, Github, Linux command-line, WSL, SSH  
+- Tools/Technologies: Python, C, Git, Github, Linux command-line, WSL, SSH  
 
 **Introduction to Data Engineering, Spring 2023**  
 - Learned basics of data pipeline flow and how to design database schemas for application specifications. Course involved designing a database and a website with corresponding API 
@@ -56,17 +65,27 @@ Relevant coursework:
 
 
 ## Projects  
+**[WatchList](https://github.com/sjdoepker/watch-list)**
+- Lets users contribute to the central database with different shows, then pull from that database to create their own list of shows they want to watch
+- Uses Github Actions for a CI pipeline with linting and unit testing
+- Uses custom user registration and authentication
+- Tools/Technologies: Flask, PostgreSQL, Docker, HTML/CSS
+
+**[Cover Artist](https://github.com/sjdoepker/cover-artist)**
+- Web app accessing Spotify API for a user-entered playlist, song, or album, that then generates an image based off of the music's features. Currently unfinished.
+- Tools/Technologies: Flask (Python), RESTful APIs, Tailwind CSS, Svelte
+
 **Personal Website, December 2023**  
 - The website you're looking at!  
-- Technologies/Tools: Github Pages, Jekyll (TeXt theme), SASS
+- Tools/Technologies: Github Pages, Jekyll (TeXt theme), SASS
 
 **Checkers Game, March 2023**  
 - In a team of four students, developed a playable version of Checkers including game logic, text-based UI, graphical UI, and a simple game-playing bot. (Code available upon request)  
-- Technologies/Tools: Python, pytest, Git, Github, Linux command-line, object-oriented design
+- Tools/Technologies: Python, pytest, Git, Github, Linux command-line, object-oriented design
 
 **TechTeam- Data Visualizations, March 2023**  
 - In a team with seven other students, created data plots for Restore Justice Illinois using Illinois state incarceration data
-- Technologies/Tools: Python, Pandas, Matplotlib, Numpy  
+- Tools/Technologies: Python, Pandas, Matplotlib, Numpy  
 
 ## Other Activities
 **House Council Secretary, September 2023 - May 2024**      
