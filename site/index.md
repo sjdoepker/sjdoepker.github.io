@@ -23,7 +23,7 @@ h6 {
 I'm Sam Doepker! You can read more about me [down here](#about-me).
 
 [Resume (PDF)](assets\sjdoepker resume.pdf)  
-LinkedIn: [@sjdoepker](https://www.linkedin.com/in/samantha-doepker/)  
+LinkedIn: [@sjdoepker](https://www.linkedin.com/in/sjdoepker/)  
 Github: [@sjdoepker](https://github.com/sjdoepker)  
 Email: [sjdoepker@uchicago.edu](mailto:sjdoepker.uchicago.edu)
 
