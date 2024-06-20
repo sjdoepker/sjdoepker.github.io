@@ -95,6 +95,7 @@ Relevant coursework:
 
 **University Theater, September 2022 - February 2024**<br>
 Productions:  
+- A Midsummer Night's Dream: Lead Sound Designer, March - May 2024 <br> 
 - Falsettos: Lead Sound Designer, September 2023 - February 2024<br>
 - The Laramie Project: Lead Sound Designer, January - March 2023<br>
 - Weekend of Workshops: Lead Sound Designer, September - October 2022<br> 
