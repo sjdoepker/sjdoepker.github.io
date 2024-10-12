@@ -22,14 +22,14 @@ h6 {
 ## Who am I? 
 I'm Sam Doepker! You can read more about me [down here](#about-me).
 
-[Resume (PDF)](assets\Sam Doepker Resume.pdf)  
+[Resume (PDF)](assets\Sam_Doepker_Resume.pdf)  
 LinkedIn: [@sjdoepker](https://www.linkedin.com/in/sjdoepker/)  
 Github: [@sjdoepker](https://github.com/sjdoepker)  
 Email: [sjdoepker@uchicago.edu](mailto:sjdoepker.uchicago.edu)
 
 
 ## Work Experience
-**CTO and co-founder, [InsightEd](insighted.org>), 2024 - Present**
+**CTO and co-founder, [InsightEd](insighted.org), 2024 - Present**
 - Working to amplify student voices to improve student wellbeing
 - Leading prototype development, technical infrastructure, and customer data analysis
 - Applied information from target customers and market to guide product development
