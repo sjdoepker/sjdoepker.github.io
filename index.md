@@ -22,7 +22,7 @@ h6 {
 ## Who am I? 
 I'm Sam Doepker! You can read more about me [down here](#about-me).
 
-[Resume (PDF)](assets\sjdoepker resume.pdf)  
+[Resume (PDF)](assets\Sam Doepker Resume.pdf)  
 LinkedIn: [@sjdoepker](https://www.linkedin.com/in/sjdoepker/)  
 Github: [@sjdoepker](https://github.com/sjdoepker)  
 Email: [sjdoepker@uchicago.edu](mailto:sjdoepker.uchicago.edu)
@@ -30,17 +30,23 @@ Email: [sjdoepker@uchicago.edu](mailto:sjdoepker.uchicago.edu)
 
 ## Work Experience
 **CTO and co-founder, [InsightEd](insighted.org>), 2024 - Present**
-- Building prototype and MVP for InsightEd's web platform
-- InsightEd is a tool for schools to measure student mental health that then provides evidence-based, population-level solutions to address identified problems
+- Working to amplify student voices to improve student wellbeing
+- Leading prototype development, technical infrastructure, and customer data analysis
+- Applied information from target customers and market to guide product development
+- Accepted into the Polsky Exchange's BUILD Accelerator program at the University of Chicago (June 2024 - August 2024) to further develop company strategy and product
 
 
 **Intern, Deaf Kids Code, 2023**  
-- Compiled online resources into a free beginner coding lesson pack for educators with Deaf and hard of hearing students  
-- Implemented lesson distribution on the Deaf Kids Code website with a form to enable educator access and facilitate client data collection for internal use  
+- Compiled web resources into a free beginner coding lesson pack for educators with Deaf and hard of hearing students 
+- Worked with company founder to ensure resources met internal accessibility and usage standards
+- Implemented web portal on the Deaf Kids Code website to enable educators to access curriculum and to facilitate internal data collection
+
 
 **Computer Science Grader, University of Chicago, 2023 - 2024**  
-- Graded homework assignments in a code review format under weekly deadlines
-- Provided constructive feedback on student work focused on efficiency of algorithms, cleanliness of data structures and design, and use of object-oriented programming  
+- Graded hundreds of student assignments in a code review format under weekly deadlines
+- Provided constructive feedback on data structure and algorithmic design, focused on code efficiency
+and style
+- Provided constructive feedback on student work focused on data structures, algorithmic design, and object-oriented programming, focusing overall design and efficient use of data structures and and algorithms
 Courses: Intro to Computer Science I & II
 
 
