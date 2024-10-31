@@ -21,8 +21,14 @@ h6 {
 
 A periodically and inconsistently updated list of various different coffee drinks I've tried, mostly with an emphasis on trying different syrup flavors for fun.
 
+I'm going to start writing these in different files for organization's sake. They're clearly not migrated over yet, so you can still find all my old reviews below.
+
+[Scaredy Cat, Halloween 2024](.\_posts\2024-10-31-scaredy-cat.md)
+
+
 ### Cold brew
 **Stok Bold and Smooth, Polsky Exchange, 6/21/24**
+
 Truly wonderful! My coworker bought it for us, as we're a part of the Polsky Exchange's BUILD Accelerator to work on our startup idea, InsightEd. One of the startups has lots of coffee and creamer in the shared fridge, and it seemed like a great idea, so we got some to share (no stealing here). Hmm, maybe having some cold brew in my fridge during the school year wouldn't be *that* bad of an idea... 10/10
 
 ### Almond
