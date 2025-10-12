@@ -9,5 +9,10 @@ entries:
   - title: github 
     url: https://github.com/sjdoepker
 
-  - title: drop me a line 
+  - title: let's talk! 
     url: mailto:sjdoepker@gmail.com
+
+  - title: miscellaneous
+    entries:
+      - title: coffee diary (outdated)
+        url: coffee

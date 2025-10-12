@@ -2,3 +2,15 @@
 ---
 
 @import "no-style-please"; 
+
+.html { background: rgb(235, 235, 235); } 
+
+.body {
+  color: rgb(0, 70, 70);
+  font-family: monospace;
+  font-size: 16px;
+  line-height: 1.4;
+  margin: 0;
+  min-height: 100%;
+  overflow-wrap: break-word;
+}

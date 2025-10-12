@@ -10,9 +10,6 @@ experienced: Python, C, Git, Unix/Linux, Windows, data structures and algorithms
 intermediate: SQL, Sigma, Numpy, Pandas, Flask, TCP/IP, Bitbucket
 familiar: Django, PostgreSQL, UDP, Docker, AWS, HTML/CSS, Matplotlib
 
-### other
-QLab, 
-
 ## work experience
 **Cboe**, Site Reliability Engineering Intern (June 2025 - September 2025)
 - Diagnosed network issues by creating Sigma dashboard to streamline troubleshooting across 27 global exchange platforms

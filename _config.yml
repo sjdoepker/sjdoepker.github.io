@@ -36,6 +36,7 @@ theme_config:
 
 # Build settings
 theme: no-style-please
+ignore_theme_config: true
 plugins:
   - jekyll-feed
 
