@@ -72,19 +72,11 @@ Courses:
 TECHNICAL SKILLS
 
 
-##
+## projects
 
-WatchList	May - June 2024
-Built a web app with Flask API and PostgreSQL database, allowing user login and interaction
-Implemented CI pipeline with GitHub Actions for automated unit testing
-Wildhacks, Northwestern University	April 2023
-Designed frontend for AI-powered sticker-making web extension with Tailwind CSS and Svelte
-Awarded Best Github Page award
-
-
-- thing 1
-
-- thing 2 
-  
-
- **WOW**
+**WatchList**, May - June 2024
+- Built a web app with Flask API and PostgreSQL database, allowing user login and interaction
+- Implemented CI pipeline with GitHub Actions for automated unit testing
+**Wildhacks**, Northwestern University,	April 2023
+- Designed frontend for AI-powered sticker-making web extension with Tailwind CSS and Svelte
+- Awarded Best Github Page award
