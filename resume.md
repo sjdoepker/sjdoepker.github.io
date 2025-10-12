@@ -69,9 +69,6 @@ Courses:
 **Awards**: Dean’s List 2024-25, Lillian Gertrude Selz Prize 
 
 
-TECHNICAL SKILLS
-
-
 ## projects
 
 **WatchList**, May - June 2024

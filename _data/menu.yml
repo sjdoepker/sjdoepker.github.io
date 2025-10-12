@@ -12,7 +12,7 @@ entries:
   - title: let's talk! 
     url: mailto:sjdoepker@gmail.com
 
-  - title: miscellaneous
-    entries:
-      - title: coffee diary (outdated)
-        url: coffee
+  # - title: miscellaneous
+  #   entries:
+  #     - title: coffee diary (outdated)
+  #       url: coffee
