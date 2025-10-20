@@ -3,14 +3,19 @@ entries:
     entries:
     - title: sam doepker, UChicago computer science '26
     - title: about me
-      url: about
+      url: /about
   - title: resume
-    url: resume
+    url: /resume
   - title: github 
     url: https://github.com/sjdoepker
 
   - title: let's talk! 
     url: mailto:sjdoepker@gmail.com
+
+  - title: theater
+    entries:
+      - title: theater production archive 
+        url: /productions
 
   # - title: miscellaneous
   #   entries:
