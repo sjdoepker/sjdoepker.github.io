@@ -23,10 +23,11 @@ email: sjdoepker@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Sam Doepker's personal website.
 domain: sjdoepker.github.io
-baseurl: "" # the subpath of your site, e.g. /blog
+# baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sjdoepker.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  sjdoepker
 linkedin_username: sjdoepker
+favicon: assets/favicon.ico
 
 theme_config:
   appearance: light
