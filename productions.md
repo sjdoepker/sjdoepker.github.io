@@ -55,7 +55,7 @@ Photography by Joseph DePaula
 |--|--|
 | ![Arsonists1](assets\Arsonists\Arsonists_2237.jpg) | ![Arsonists2](assets\Arsonists\Arsonists_2156.jpg) |
 | ![Arsonists3](assets\Arsonists\Arsonists_2172.jpg) | ![Arsonists4](assets\Arsonists\Arsonists_2153_landscape.jpg) |
-| ![Arsonists5](assets\Arsonists\Arsonists_2093.jpg) | ![Arsonists6](assets\Arsonists\Arsonists_2167.jpg) |
+| ![Arsonists5](assets\Arsonists\Arsonists_2093.jpg) | ![Arsonists6](assets\Arsonists\Arsonists_2167.JPG) |
 
 
 By Max Frisch
